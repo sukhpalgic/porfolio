@@ -310,6 +310,9 @@ footer{
     text-decoration: underline;
     text-shadow: #000 2px 2px 2px;
 }
-@media only with screen {min-width: ;
+@media only with screen (min-width:69px;)and(max-width:700px;)
+
+    *{ 
+    text-size:15px;
+    text-aling: centre;
     
-}

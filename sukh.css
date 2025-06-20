@@ -316,4 +316,7 @@ footer{
     text-size:15px;
     text-aling: centre;
     width:100%;
+    .image{
+        height:50px;
+        width:50px;
     
